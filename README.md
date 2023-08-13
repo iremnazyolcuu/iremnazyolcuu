@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&center=true&vCenter=true&color=7F00FF&width=500&height=70&duration=4000&lines=Hi+there!+👋;+I'm+Iremnaz!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Istanbul</h3>
+<h3 align="center">A passionate software developer from Istanbul 💻 </h3>
 
 <br/>
 
