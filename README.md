@@ -14,7 +14,7 @@
 
  💬 Ask me about **Node.js, React, Firebase, MongoDB... or anything [here](https://github.com/iremnazyolcuu/iremnazyolcuu/issues)**
 
- 🤓 A fact **The world’s first computer programmer was a woman named Ada Lovelace.**
+ 😎 A fact **The world’s first computer programmer was a woman named Ada Lovelace.**
  
  </div>
  
