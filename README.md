@@ -10,7 +10,7 @@
  
  🌱 I’m currently learning **full-stack development to gain proficiency in both front-end and back-end techniques.**
 
- 💬 Ask me about **my programming journey, and I'll be excited to share my experiences and insights! [here](https://github.com/iremnazyolcuu/iremnazyolcuu/issues)**
+ 💬 Ask me about **my programming journey, and I'll be excited to share my experiences and insights! [here](iremnazyolcu@gmail.com)**
 
  😎 Cool fact **The world’s first computer programmer was a renowned female mathematician named Ada Lovelace.**
  
