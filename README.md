@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&center=true&vCenter=true&color=7F00FF&width=500&height=70&duration=4000&lines=Hi+there!+👋;+I'm+Iremnaz!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&center=true&vCenter=true&color=7F00FF&width=500&height=70&duration=3000&lines=Hi+there!+👋;+I'm+Iremnaz!;" />
 </h1>
 
 <h3 align="center">A passionate software developer from Turkey</h3>
@@ -65,7 +65,7 @@
 <hr/>
 
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&color=7F00FF&width=500&height=70&duration=2000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=25&center=true&vCenter=true&color=7F00FF&width=500&height=70&duration=3000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
 </h3>
 
 <br/>
