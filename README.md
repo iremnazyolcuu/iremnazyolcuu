@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&center=true&vCenter=true&color=7F00FF&width=500&height=70&duration=4000&lines=Hi+there!+👋;+I'm+Iremnaz!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Turkey</h3>
+<h3 align="center">A passionate software developer from Istanbul</h3>
 
 <br/>
 
@@ -12,7 +12,7 @@
  
  🌱 I’m currently learning **Redis, Tailwind, React Native Expo**
 
- 💬 Ask me about **Node.js, React, Firebase, MongoDB... or anything [here](https://github.com/salesp07/salesp07/issues)**
+ 💬 Ask me about **Node.js, React, Firebase, MongoDB... or anything [here](https://github.com/iremnazyolcuu/iremnazyolcuu/issues)**
 
  ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
  
