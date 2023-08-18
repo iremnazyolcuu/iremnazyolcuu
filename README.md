@@ -12,7 +12,7 @@
 
  💬 Ask me about **my programming journey, and I'll be happy to share my experiences and insights!**
 
- 😎 Cool fact **The world’s first computer programmer was a renowned female mathematician named Ada Lovelace.**
+ 😎 Cool fact **the world’s first computer programmer was a renowned female mathematician named Ada Lovelace.**
  
  </div>
  
