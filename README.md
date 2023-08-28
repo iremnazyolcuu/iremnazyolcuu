@@ -30,8 +30,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,java,javascript&theme=light" /><br> 
-    <img src="https://skillicons.dev/icons?i=react,html,css&theme=light" />
+    <img src="https://skillicons.dev/icons?i=python,java,spring,html,css,javascript,reactjs&theme=light" /><br> 
 </div>
 
 <br/>
