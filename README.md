@@ -8,7 +8,7 @@
 
 <div align="center">
  
- 🌱 I’m currently learning **full-stack development to gain proficiency in both front-end and back-end techniques.**
+ 🌱 I’m currently learning **Java backend development.**
 
  💬 Ask me about **my programming journey, and I'll be happy to share my experiences and insights!**
 
